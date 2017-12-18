@@ -1,7 +1,14 @@
+Package: DelightfulFunctions
+Version: 1.761
+Depends: R (>= 3.0.3)
+Imports: jsonlite, base64enc, RPostgreSQL, httr, methods, XML, digest, stringi, mmkit
+Suggests: readr
+MD5sum: 0584c0be7290dfab3534fb7a1d203d55
+NeedsCompilation: yes
+
 Package: drat
 Version: 0.0.4
 Suggests: git2r, knitr
 License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
-
