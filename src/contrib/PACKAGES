@@ -12,3 +12,11 @@ Suggests: git2r, knitr
 License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
+
+Package: mmkit
+Version: 0.52
+Depends: R (>= 3.1.1)
+Imports: DBI, dplyr, dbplyr, httr, jsonlite, RPostgreSQL, yaml
+Suggests: RJDBC, RMySQL, tidyr
+MD5sum: 48e7ccc674f4d0d050c22310c58e9592
+NeedsCompilation: no
