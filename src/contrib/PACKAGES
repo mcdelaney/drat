@@ -3,7 +3,7 @@ Version: 1.761
 Depends: R (>= 3.0.3)
 Imports: jsonlite, base64enc, RPostgreSQL, httr, methods, XML, digest, stringi, mmkit
 Suggests: readr
-MD5sum: 610a754b83afbef124714a069cf565fd
+MD5sum: 376ac8dc375029eb1f84fe0939c778f3
 NeedsCompilation: yes
 
 Package: drat
