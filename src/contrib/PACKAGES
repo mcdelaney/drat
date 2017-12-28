@@ -16,7 +16,7 @@ NeedsCompilation: no
 Package: featuremap
 Version: 0.2
 Imports: dplyr, jsonlite, mmkit, logging, purrr, R6, aws.s3, DBI
-MD5sum: 8e2ba3d5e30d721c8419ce6f7cdd2752
+MD5sum: efe10f202011c124f49d59a0e09024f7
 NeedsCompilation: no
 
 Package: mmkit
