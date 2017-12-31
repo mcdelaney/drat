@@ -24,5 +24,5 @@ Version: 0.52
 Depends: R (>= 3.1.1)
 Imports: DBI, dplyr, dbplyr, httr, jsonlite, RPostgreSQL, yaml
 Suggests: RJDBC, RMySQL, tidyr
-MD5sum: 48e7ccc674f4d0d050c22310c58e9592
+MD5sum: f0e86ab70c97730910e68b9c1898aeed
 NeedsCompilation: no
