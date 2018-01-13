@@ -17,7 +17,7 @@ Package: featuremap
 Version: 0.2
 Depends: R (>= 3.0.0)
 Imports: dplyr, jsonlite, xgboost, mmkit, logging, purrr, R6, aws.s3, DBI
-MD5sum: cfa8b387fa0144c62ee479dad57a1115
+MD5sum: d810a5c164d6677705123160337052db
 NeedsCompilation: no
 
 Package: mmkit
