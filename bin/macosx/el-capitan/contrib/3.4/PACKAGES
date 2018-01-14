@@ -1,0 +1,6 @@
+Package: mmkit
+Version: 0.53
+Depends: R (>= 3.1.1)
+Imports: DBI, dplyr, dbplyr, httr, jsonlite, RPostgreSQL, yaml
+Suggests: RJDBC, RMySQL, tidyr
+MD5sum: 44c2c036282776c319889847469072b4
