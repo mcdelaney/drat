@@ -14,10 +14,10 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: featuremap
-Version: 0.3
+Version: 0.4
 Depends: R (>= 3.0.0)
 Imports: dplyr, jsonlite, xgboost, mmkit, logging, purrr, R6, aws.s3, DBI
-MD5sum: 3dfed18d0ececa29119268712648f1e8
+MD5sum: 71039b02be81a2637b73836ae01c3fe1
 NeedsCompilation: no
 
 Package: mmkit
