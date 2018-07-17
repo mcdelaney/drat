@@ -21,9 +21,9 @@ MD5sum: 71039b02be81a2637b73836ae01c3fe1
 NeedsCompilation: no
 
 Package: mmkit
-Version: 0.53
+Version: 0.71
 Depends: R (>= 3.1.1)
-Imports: DBI, dplyr, dbplyr, httr, jsonlite, RPostgreSQL, yaml
+Imports: DBI, dplyr, dbplyr, httr, jsonlite, RPostgreSQL, yaml, stringr, bigrquery
 Suggests: RJDBC, RMySQL, tidyr
-MD5sum: 40ee658e36c07ec05e4f75fe22e58c24
+MD5sum: 316b6bb73988e1877576bdf3a12f7648
 NeedsCompilation: no
