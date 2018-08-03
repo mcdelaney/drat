@@ -1,9 +1,9 @@
 Package: DelightfulFunctions
-Version: 1.774
+Version: 1.775
 Depends: R (>= 3.0.3)
-Imports: jsonlite, base64enc, RPostgreSQL, httr, methods, XML, digest, stringi, mmkit
-Suggests: readr
-MD5sum: eaf26517b58c0cf7951e600e2cdba4e0
+Imports: jsonlite, base64enc, RPostgreSQL, httr, methods, XML, digest, mmkit, DBI
+Suggests: readr, stringi
+MD5sum: 1acc8a055c0e6f69813de791fea1b97d
 NeedsCompilation: yes
 
 Package: drat
