@@ -1,9 +1,9 @@
 Package: DelightfulFunctions
-Version: 1.765
+Version: 1.773
 Depends: R (>= 3.0.3)
 Imports: jsonlite, base64enc, RPostgreSQL, httr, methods, XML, digest, stringi, mmkit
 Suggests: readr
-MD5sum: 410e46818d72cc19b15335067195a6f2
+MD5sum: 1f34fd54ee9e74072029e1a604699fce
 NeedsCompilation: yes
 
 Package: drat
@@ -21,9 +21,9 @@ MD5sum: 71039b02be81a2637b73836ae01c3fe1
 NeedsCompilation: no
 
 Package: mmkit
-Version: 0.71
+Version: 0.76
 Depends: R (>= 3.1.1)
 Imports: DBI, dplyr, dbplyr, httr, jsonlite, RPostgreSQL, yaml, stringr, bigrquery
 Suggests: RJDBC, RMySQL, tidyr
-MD5sum: 316b6bb73988e1877576bdf3a12f7648
+MD5sum: 99537dbe0ac77113b11b28436e8c0980
 NeedsCompilation: no
